@@ -1,0 +1,6 @@
+[submodule "libs/GaussianObject"]
+	path = libs/GaussianObject
+	url = git@github.com:photosartd/GaussianObject.git
+[submodule "libs/paris"]
+	path = libs/paris
+	url = git@github.com:photosartd/paris.git
